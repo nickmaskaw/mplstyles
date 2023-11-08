@@ -1,0 +1,32 @@
+figure.constrained_layout.use: True
+figure.figsize: 6, 3
+
+font.size: 10
+font.family: Times New Roman
+
+text.usetex: False
+
+lines.linewidth: 1
+lines.markerfacecolor: none
+lines.markersize: 4
+
+legend.frameon: False
+legend.markerscale: .8
+legend.fontsize: small
+legend.title_fontsize: small
+legend.handlelength: 1
+legend.handletextpad: .2
+
+xtick.top: True
+xtick.major.size: 5
+xtick.major.width: 1
+xtick.minor.width: 1
+xtick.minor.size: 3
+xtick.direction: in
+
+ytick.right: True
+ytick.major.size: 5
+ytick.major.width: 1
+ytick.minor.width: 1
+ytick.minor.size: 3
+ytick.direction: in
